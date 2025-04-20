@@ -4,7 +4,7 @@
 
 # Tools Used
 - Python
-- MangoDB
+- PyCharm
 - Scrapy
 # Steps
 1. First thing I needed to do was to pip install scrapy. This web scraping framework can manage requests asynchronously, follow links, and parse site content.
